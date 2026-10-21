@@ -1,0 +1,7 @@
+﻿MCP tools discovered: ['word_count']
+MODEL REQUESTED TOOL: word_count
+Arguments: {'text': 'MCP tools connect agents with external functions.'}
+EXECUTING THROUGH MCP...
+MCP TOOL RESULT: 7
+FINAL MODEL ANSWER:
+The text you provided contains 7 words.
